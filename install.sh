@@ -30,7 +30,7 @@ rm -rf ~/instructlab
 rm -rf ~/.cache/pip
 mkdir ~/instructlab
 cd ~/instructlab
-python -m venv venv
+python3.11 -m venv venv
 
 #source venv
 source venv/bin/activate
@@ -53,37 +53,4 @@ pip install --force-reinstall "llama_cpp_python[server]==0.2.79" --config-settin
 #downgrade numpy or you'll get a breaking change to ilab training
 pip install 'numpy<2.0'
 
-# Getting instructlab qna.yaml for backtothefuture example
-mkdir ~/files
-curl -o ~/files/qna.yaml https://raw.githubusercontent.com/gshipley/backToTheFuture/main/qna.yaml
-
-#Now lets install the parasol insurance app 
-
-# ensure we are in home directory
-cd ~
-
-# Install zip
-echo "installing zip"
-sleep 1
-sudo dnf install zip -y
-
-# Install sdkman in order to get newer versions of Java and Maven. Then install Quarkus, Java, and Maven.
-echo "installing sdkman"
-sleep 1
-curl -s "https://get.sdkman.io" | bash
-source "/home/instruct/.sdkman/bin/sdkman-init.sh"
-sdk install java 21.0.3-tem
-
-# Clone parasol app
-echo "cloning parasol-insurance"
-sleep 1
-# git clone https://github.com/jamesfalkner/parasol-insurance.git
-git clone https://github.com/rh-rad-ai-roadshow/parasol-insurance.git
-
-# Build parasol app
-cd parasol-insurance/app
-./mvnw clean package -DskipTests
-
-# Run parasol app
-java -jar target/quarkus-app/quarkus-run.jar
 

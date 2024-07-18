@@ -1,0 +1,1122 @@
+[
+    {
+        "instruction": "How much is the maximum payout for the fully comprehensive cover under the Parasol Platinum level?",
+        "input": "",
+        "output": "The maximum payout for the fully comprehensive cover under the Parasol Platinum level is $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you describe what fully comprehensive car insurance cover includes in the context of Parasol insurance products?",
+        "input": "",
+        "output": "Fully comprehensive car insurance coverage from Parasol includes coverage for damage to your vehicle, damage to other people's vehicles and property, medical expenses, and legal costs.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the deductible amount for the Parasol Gold level?",
+        "input": "",
+        "output": "The deductible amount for the Parasol Gold level is $2000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Describe the differences between the maximum payouts of the Silver and Gold level Parasol car insurance products.",
+        "input": "",
+        "output": "The Silver level Parasol car insurance product offers a maximum payout of $20,000, while the Gold level provides a maximum payout of $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "How much is the maximum deductible for the Parasol Car Insurance Platinum plan?",
+        "input": "",
+        "output": "The maximum deductible for the Parasol Car Insurance Platinum plan is $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Describe how much the deductible for the Platinum level Parasol car insurance product is.",
+        "input": "",
+        "output": "The Platinum level Parasol car insurance product has a deductible of $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum payout for fully comprehensive cover under the Gold level?",
+        "input": "",
+        "output": "The maximum payout for the fully comprehensive cover under the Gold level is $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What are the different levels of coverage offered by Parasol car insurance, and what are their respective maximum payouts and deductibles?",
+        "input": "",
+        "output": "Parasol car insurance offers three levels of coverage: Silver, Gold, and Platinum. The Silver level has a maximum payout of $20,000 and a deductible of $2000. The Gold level has a maximum payout of $40,000 and the same deductible as the Silver level. The Platinum level offers a maximum payout of $60,000 with a deductible of $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you provide an example of a claim that would be covered under the Silver level policy?",
+        "input": "",
+        "output": "A claim for damage to another person's vehicle or property up to $20,000, with a deductible of $2000, would be covered under the Silver level policy.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you compare the maximum payout for basic third party cover and fully comprehensive cover under Parasol insurance products?",
+        "input": "",
+        "output": "The maximum payout for basic third party cover is $20,000 under the Silver level policy, while the maximum payout for fully comprehensive cover is $40,000 under the Gold level policy and $60,000 under the Platinum level policy.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you provide the coverage amount for the Parasol Car Insurance Gold plan?",
+        "input": "",
+        "output": "The Parasol Car Insurance Gold plan provides fully comprehensive cover up to a maximum payout of $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare and contrast the maximum payouts for the Silver, Gold, and Platinum levels of Parasol car insurance products.",
+        "input": "",
+        "output": "The Silver level offers a maximum payout of $20,000, while the Gold level has a higher maximum payout of $40,000. The Platinum level is the most expensive option and provides a maximum payout of $60,000. However, it's important to note that these amounts are for fully comprehensive cover and include both damages to your vehicle and third-party properties.\n\nConfidence: 95%",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "If someone wants to upgrade their coverage from the Silver level to the Platinum level, what is the maximum amount they would save on their deductible?",
+        "input": "",
+        "output": "By upgrading from the Silver level to the Platinum level, the policyholder would reduce their deductible by $1500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum payout amount for Parasol car insurance's Gold level coverage?",
+        "input": "",
+        "output": "The Gold level coverage provided by Parasol car insurance has a maximum payout of $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "For which Parasol car insurance product is the deductible at $2000?",
+        "input": "",
+        "output": "The Silver and Gold level Parasol car insurance products have a deductible of $2000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Could you tell me how much maximum payout is covered by the Platinum plan in parasol car insurance?",
+        "input": "",
+        "output": "The Platinum plan in parasol car insurance provides fully comprehensive cover with a maximum payout of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum payout amount for the Gold level car insurance product by Parasol insurance?",
+        "input": "",
+        "output": "The Gold level car insurance product from Parasol insurance has a maximum payout of $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the deductible for Platinum level coverage offered by Parasol car insurance?",
+        "input": "",
+        "output": "The deductible for Platinum level coverage offered by Parasol car insurance is $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What are some of the features that customers can enjoy with the Platinum level?",
+        "input": "",
+        "output": "With the Platinum level, customers can enjoy features such as a higher maximum payout ($60,000) and a lower deductible ($500). This is compared to the $20,000 maximum payout and $2000 deductible for the Silver level, and the $40,000 maximum payout and $2000 deductible for the Gold level.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the difference in deductible between Gold and Silver level parasol car insurance products?",
+        "input": "",
+        "output": "The deductible for the Silver level Parasol car insurance product is $2000, while for the Gold level it remains the same at $2000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Which parasol car insurance product has the highest maximum payout limit?",
+        "input": "",
+        "output": "The Platinum level has the highest payout limit of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you provide me with an example of a claim scenario where it would make sense to choose the Gold level car insurance product?",
+        "input": "",
+        "output": "For instance, if someone was involved in an accident and their vehicle suffered significant damage, but no other party was injured or killed, the Gold level car insurance product would provide a maximum payout of $40,000, which could cover most or all of the repair costs.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the deductible amounts for the Gold level and Platinum level policies in Parasol's car insurance products.",
+        "input": "",
+        "output": "The deductible amount for the Gold level policy is $2000, and for the Platinum level policy it is $500, but with a higher maximum payout of $60,000 compared to the $40,000 for the Gold level.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you tell me which level of the Parasol car insurance products offers a maximum payout of $20,000?",
+        "input": "",
+        "output": "The Silver level of Parasol car insurance products offers a maximum payout of $20,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Could you tell me how the Platinum level policy is superior to the Gold level policy in terms of coverage amount?",
+        "input": "",
+        "output": "The Platinum level policy offers a maximum payout of $60,000 for fully comprehensive cover, compared to the Gold level policy's maximum payout of $40,000. This makes the Platinum level policy superior in terms of coverage amount.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum deductible for Parasol Car Insurance Platinum plan?",
+        "input": "",
+        "output": "The maximum deductible for the Parasol Car Insurance Platinum plan is $500, which is the lowest among all three levels.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Explain the differences in deductibles for the Silver, Gold, and Platinum levels of Parasol car insurance products.",
+        "input": "",
+        "output": "The deductible is the amount that you are responsible to pay before your insurance coverage begins. For Silver and Gold the deductible is $2000, the Platinum level deductable is $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "How much lower than the Silver level is the Platinum level deductible?",
+        "input": "",
+        "output": "The Platinum level deductible is $1500 lower than the Silver level deductible.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Tell me about the differences in maximum payout between the Gold and Platinum level policies.",
+        "input": "",
+        "output": "The Gold level policy has a maximum payout of $40,000, while the Platinum level policy offers a higher maximum payout of $60,000. This means that under the Platinum plan, you can claim up to $60,000 in case of an accident, while with the Gold plan, your claim will be limited to $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Explain the differences between Silver and Gold levels of Parasol car insurance products.",
+        "input": "",
+        "output": "At a glance, the Silver level offers basic third party cover with a maximum payout of $20,000 and a deductible of $2000. The Gold level provides fully comprehensive cover with a higher maximum payout of $40,000 but keeps the same deductible as Silver level ($2000).\n\nHere's the main difference: The Silver level covers only third-party liability, while the Gold level includes coverage for your own vehicle and medical expenses in case of an accident.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum coverage amount for fully comprehensive cover under the Gold or Platinum levels of Parasol car insurance products?",
+        "input": "",
+        "output": "The Gold level offers a maximum payout of $40,000 for fully comprehensive cover, while the Platinum level offers a maximum payout of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Which Parasol car insurance product is better suited for someone who wants a higher deductible in exchange for a lower premium?",
+        "input": "",
+        "output": "The Gold level of Parasol car insurance products is the best choice for someone who wants a higher deductible, as it offers a deductible of $2000 and a maximum payout of $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the maximum payouts for the Silver and Platinum levels in Parasol's car insurance products.",
+        "input": "",
+        "output": "The Silver level policy has a maximum payout of $20,000, while the Platinum level policy offers a higher maximum payout of $60,000. This means that the Platinum level policy can provide more comprehensive coverage for larger claims compared to the Silver level policy.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the payout and deductible amounts for Gold and Platinum levels.",
+        "input": "",
+        "output": "The Gold level policy has a maximum payout of $40,000 and a deductible of $2000, while the Platinum level policy has a maximum payout of $60,000 and a deductible of $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum payout amount for the Platinum level parasol car insurance?",
+        "input": "",
+        "output": "The Platinum level Parasol car insurance product has a maximum payout of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Please provide an example of a specific Parasol car insurance product and its details.",
+        "input": "",
+        "output": "The Platinum level policy offers fully comprehensive cover with a maximum payout of $60,000 and a deductible of $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Which Parasol car insurance product has the highest maximum payout for collisions?",
+        "input": "",
+        "output": "The Gold level Parasol car insurance product has a maximum payout of $40,000 for collisions.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the difference in coverage and deductible between the Silver and Gold levels of Parasol car insurance?",
+        "input": "",
+        "output": "The Silver level provides basic third party cover with a maximum payout of $20,000 and a deductible of $2000, while the Gold level offers fully comprehensive cover with a maximum payout of $40,000 and the same deductible.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you explain to me in simple terms what \"fully comprehensive\" means when it comes to car insurance?",
+        "input": "",
+        "output": "Fully comprehensive car insurance is a type of coverage that protects your vehicle from almost all types of damage. It includes damage caused by accidents, theft, vandalism, natural disasters, and other unforeseen events. This type of coverage also provides medical expenses and loss of income protection for the driver and any passengers involved in an accident.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "How much can you expect to pay as a deductible for each Parasol car insurance product?",
+        "input": "",
+        "output": "For the Silver level policy, you can expect a $2000 deductible. For the Gold level policy, it's also $2000. The Platinum level has a lower deductible of $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Please describe the Parasol car insurance products in detail.",
+        "input": "",
+        "output": "Parasol offers three levels of car insurance: Silver, Gold, and Platinum. The Silver level provides basic third-party cover with a maximum payout of $20,000 and a $2000 deductible. The Gold level offers fully comprehensive cover with a higher maximum payout of $40,000 and the same deductible as Silver level ($2000). The Platinum level provides fully comprehensive coverage with a maximum payout of $60,000 and a lower deductible of $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the coverage and cost for the Platinum level and Silver level of Parasol car insurance.",
+        "input": "",
+        "output": "The Platinum level offers fully comprehensive cover with a maximum payout of $60,000 and a deductible of $500. Meanwhile, the Silver level provides basic third party cover with a maximum payout of $20,000 and a higher deductible of $2000. In terms of coverage, the Platinum level is more comprehensive than the Silver level, but it also comes at a higher cost due to its increased maximum payout and lower deductible.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Name any level of Parasol car insurance product that offers a deductible of $500.",
+        "input": "",
+        "output": "The Platinum level of Parasol car insurance products features a deductible of $500 for fully comprehensive cover, which is the highest level available. This means you'll be responsible for paying the first $500 of any claim before your insurance coverage kicks in.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you provide an example of a real-life scenario where purchasing fully comprehensive car insurance from Parasol would be beneficial?",
+        "input": "",
+        "output": "Consider a situation where your vehicle is involved in an accident and it sustains significant damage. In this case, fully comprehensive coverage from Parasol would be helpful as it covers not only the damage to your own vehicle but also any damage caused to other people's property or injuries resulting from the accident. This could help you avoid paying out of pocket for these expenses, which could potentially run into tens of thousands of dollars depending on the severity of the accident.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you explain what a deductible is in the context of parasol car insurance?",
+        "input": "",
+        "output": "A deductible in Parasol car insurance refers to the amount you have agreed to pay out of your own pocket in case of a claim. In other words, if you file a claim, Parasol will pay for the damages that exceed the agreed-upon deductible.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare and contrast the Platinum level and Silver level parasol car insurance products.",
+        "input": "",
+        "output": "The Platinum level Parasol car insurance offers fully comprehensive cover with a higher maximum payout of $60,000 compared to the Silver level's basic third party cover with a payout limit of $20,000. There is a deductible of $2000 for the Silver and $500 for the Platinum. The key difference is that the Platinum level includes coverage for your own vehicle and medical expenses in case of an accident, while the Silver level only covers third-party liability.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the deductibles between the Silver and Platinum level policies offered by Parasol insurance for their car insurance products.",
+        "input": "",
+        "output": "For the Silver level policy, the deductible is $2000, while for the Platinum level policy, it is $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Describe the difference between Silver and Gold level car insurance plans offered by Parasol Insurance in terms of maximum payout and deductible.",
+        "input": "",
+        "output": "The Silver level plan offers basic third party cover with a maximum payout of $20,000 and a deductible of $2000, while the Gold level plan provides fully comprehensive cover with a maximum payout of $40,000 and the same deductible amount.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "In the context of car insurance, explain what is meant by \"maximum payout.\"",
+        "input": "",
+        "output": "In car insurance, maximum payout refers to the highest amount that an insurer will cover for a claim under a specific policy. It is important to note that the maximum payout varies depending on the level of coverage and the specific terms of the policy.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the highest level of car insurance coverage offered by Parasol?",
+        "input": "",
+        "output": "The highest level of car insurance coverage offered by Parasol is the Platinum level, which provides fully comprehensive cover with a maximum payout of $60,000 and a deductible of $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the difference between Gold and Platinum levels in terms of maximum payout for Parasol car insurance?",
+        "input": "",
+        "output": "The maximum payout for fully comprehensive cover under the Gold level is $40,000, while the Platinum level offers a higher maximum payout of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum amount that can be claimed under the Platinum level policy in case of collisions?",
+        "input": "",
+        "output": "The Platinum level policy offers fully comprehensive cover with a maximum payout of $60,000 for collisions.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the maximum payouts for the Silver and Gold level policies in Parasol's car insurance products.",
+        "input": "",
+        "output": "The Silver level policy offers basic third party cover with a maximum payout of $20,000, while the Gold level policy provides fully comprehensive cover up to a maximum payout of $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Which Parasol car insurance product has the lowest maximum payout?",
+        "input": "",
+        "output": "The Silver level parasol car insurance product has the lowest maximum payout of $20,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you compare the deductible amounts between the Gold and Platinum level policies?",
+        "input": "",
+        "output": "Both the Gold and Platinum level policies have a deductible of $2000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the maximum payouts of Silver and Gold levels of Parasol car insurance products.",
+        "input": "",
+        "output": "The Silver level of Parasol car insurance has a maximum payout of $20,000, while the Gold level offers a higher maximum payout of $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What additional benefits does a Platinum level policy offer compared to a Gold level policy?",
+        "input": "",
+        "output": "A Platinum level policy offers a higher maximum payout ($60,000 vs $40,000) and a lower deductible ($500 vs $2000) compared to a Gold level policy.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you provide an example of a real-life scenario where not purchasing fully comprehensive car insurance from Parasol could lead to financial consequences?",
+        "input": "Consider a situation where your vehicle is involved in an accident and it is determined to be at fault. In this case, if you only have basic third party cover, the other party can claim against your insurance for damages to their vehicle or injuries resulting from the accident. However, if you do not have enough coverage to pay for these costs, you may be liable for paying them out of pocket. This could potentially result in financial strain, especially if the costs are high.",
+        "output": "<noinput>",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum payout for Platinum level Parasol car insurance products?",
+        "input": "",
+        "output": "The maximum payout for the Platinum level of Parasol car insurance products is $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Explain whether or not there is any difference in the maximum payout for the Gold and Platinum levels of Parasol car insurance products.",
+        "input": "",
+        "output": "Yes, there is a $20,000 difference in the maximum payouts for the Gold and Platinum levels of Parasol car insurance products. The Gold level has a maximum payout of $40,000, while the Platinum level has a maximum payout of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Describe how much more money would be covered in a collision for someone who chose the Platinum level policy compared to the Gold level policy.",
+        "input": "",
+        "output": "The Platinum level policy covers an additional $20,000 in a collision compared to the Gold level policy. This is because the maximum payout for the Platinum level policy is $60,000, while the maximum payout for the Gold level policy is $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the deductible amounts for Silver, Gold, and Platinum levels.",
+        "input": "",
+        "output": "The Silver level policy has a deductible of $2000, the Gold level policy has a deductible of $2000, and the Platinum level policy has a deductible of $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the highest amount of collision coverage available with Parasol Car Insurance?",
+        "input": "",
+        "output": "The highest amount of collision coverage available with Parasol Car Insurance is $60,000 for their Platinum level policy.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Find out if Parasol insurance offers a middle tier car insurance product that has a higher maximum payout compared to the Silver level, but with a lower deductible than the Gold level.",
+        "input": "",
+        "output": "The Gold level policy offered by Parasol insurance provides fully comprehensive cover with a maximum payout of $40,000 and a deductible of $2000. The Platinum level policy offers fully comprehensive cover with a higher maximum payout of $60,000 and a lower deductible of $500. However, there is no middle tier product that fits the described criteria.\n\n** Explanation:\nThe Gold level policy has a higher maximum payout than the Silver level policy, but it also has a higher deductible. Therefore, there is no middle tier product with a higher maximum payout and a lower deductible than the Gold level policy.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Describe the difference in terms of deductible between the Silver and Gold level of car insurance products offered by Parasol insurance.",
+        "input": "",
+        "output": "The Silver level of Parasol car insurance has a $2000 deductible, while the Gold level has the same deductible amount.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Determine the most expensive insurance coverage offered by Parasol.",
+        "input": "",
+        "output": "The Platinum level provides fully comprehensive cover with a maximum payout of $60,000 and a deductible of $500, making it the most expensive insurance coverage option offered by Parasol.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you tell me which Parasol car insurance product has the lowest maximum payout amount?",
+        "input": "",
+        "output": "The Silver level policy offers basic third party cover with a maximum payout of $20,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Please describe any differences between the Parasol car insurance products and their deductible amounts.",
+        "input": "",
+        "output": "The Silver level policy has a deductible of $2,000, the Gold level policy has a deductible of $2,000, and the Platinum level policy has a deductible of $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Name any Parasol car insurance product level that offers a maximum payout of at least $40,000.",
+        "input": "",
+        "output": "The Gold and Platinum levels of Parasol car insurance products both offer a maximum payout of at least $40,000 for fully comprehensive cover. These levels are suitable for those who want higher coverage limits to protect their assets in case of an accident.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Find the level of Parasol car insurance products that has the lowest deductible among all levels.",
+        "input": "",
+        "output": "The Platimum level of Parasol car insurance products has the lowest deductible among all levels, with a $500 deductible.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum payout for the Platinum level car insurance plan offered by Parasol Insurance?",
+        "input": "",
+        "output": "The Platinum level plan offers fully comprehensive cover with a maximum payout of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "For the Platinum level of Parasol car insurance products, what is the maximum payout for collisions?",
+        "input": "",
+        "output": "The Platinum level Parasol car insurance product has a maximum payout of $60,000 for collisions.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "How much should I expect to pay as a deductible for the Gold level of Parasol car insurance?",
+        "input": "",
+        "output": "For the Gold level coverage under Parasol car insurance, you can expect to pay a deductible of $2000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Provide the difference in maximum payouts for the Silver and Platinum levels of coverage.",
+        "input": "",
+        "output": "The Silver level has a maximum payout of $20,000, while the Platinum level has a higher maximum payout of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Determine the maximum payout amount and deductible for the Silver level car insurance product by Parasol insurance.",
+        "input": "",
+        "output": "The Silver level car insurance product from Parasol insurance has a maximum payout of $20,000 and a deductible of $2000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Explain in detail how to compare the Parasol car insurance products.",
+        "input": "",
+        "output": "To compare the Parasol car insurance products, consider the following factors:\n1. Maximum payout limit: The Platinum level offers a higher maximum payout limit of $60,000 compared to the Gold level ($40,000) and Silver level ($20,000).\n2. Deductible: The Platinum level has a lower deductible of $500, while the Silver level has a deductible of $2000 and the Gold level has a deductible of $2000.\n3. Coverage type: Silver offers third party coverage, but Gold and Platinum level provides fully comprehensive.\n4. Price: The price for each level may vary based on factors such as your location, driving record, and vehicle make/model. Contact Parasol insurance to request a quote for each level.\n5. Additional features: Research any additional features offered by Parasol insurance, such as roadside assistance or rental car coverage, to determine which policy best fits your needs.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "How do I determine the most suitable Parasol car insurance product based on my specific needs and financial situation?",
+        "input": "",
+        "output": "To find the best fit for your requirements, consider the following:\n1. Compare the maximum payout limits for each level to ensure they meet your coverage needs.\n2. Evaluate the deductibles to determine which one aligns with your budget and risk tolerance.\n3. Research additional benefits offered by each product, such as roadside assistance or rental car reimbursement.\n4. Consult with a financial advisor or insurance specialist for personalized guidance.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the difference in coverage between the Parasol Silver and Gold level car insurance products?",
+        "input": "",
+        "output": "The main differences are:\n1. Maximum payout limits: Silver has a limit of $20,000 while Gold offers a higher limit of $40,000.\n2. Deductibles: Both levels have the same deductible of $2000.\n3. Additional benefits: While both coverages include basic third-party liability, the Gold level also provides comprehensive coverage for collisions and other damages.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the maximum payouts for Gold and Platinum levels of Parasol car insurance.",
+        "input": "",
+        "output": "The Gold level of Parasol car insurance has a maximum payout of $40,000, while the Platinum level offers a higher maximum payout of $60,000. Therefore, the Platinum level provides more coverage than the Gold level in terms of financial compensation for damages or accidents.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Find the Parasol insurance product that offers a deductible of $500 with fully comprehensive cover.",
+        "input": "",
+        "output": "The Platinum level of Parasol car insurance products offers a deductible of $500 with fully comprehensive cover.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can you explain how much the deductible is for each Parasol car insurance product?",
+        "input": "",
+        "output": "The Platinum level policy has a deductible of $500, while the Gold and Silver levels both have a deductible of $2000. This means that you will pay the first $2000 of any claim made under the Gold or Silver plan, before the insurance coverage kicks in.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum payout for each level of Parasol's car insurance?",
+        "input": "",
+        "output": "The Silver level policy has a maximum payout of $20,000, while the Gold level policy has a maximum payout of $40,000. The Platinum level policy offers the highest maximum payout amount of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Given the Parasol car insurance products document, find the level of coverage that provides the highest maximum payout for a claim.",
+        "input": "",
+        "output": "The Platinum level of Parasol car insurance products offers the highest maximum payout of $60,000 for a claim.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare and contrast the Platinum level policy to the Gold level policy in terms of maximum payouts and deductibles.",
+        "input": "",
+        "output": "The Platinum level policy provided by Parasol insurance offers fully comprehensive coverage with a higher maximum payout of $60,000 compared to the Gold level policy's maximum payout of $40,000. However, the Platinum level policy has a lower deductible of $500, while the Gold level policy has a deductible of $2000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What are the differences in the deductible amounts between the Silver, Gold, and Platinum levels of Parasol car insurance products?",
+        "input": "",
+        "output": "The Silver level has a $2000 deductible, the Gold level maintains the same deductible amount, while the Platinum level reduces it to $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Determine which Parasol car insurance product offers the highest deductible.",
+        "input": "",
+        "output": "The Gold and Silver level of Parasol car insurance products offers the highest deductible, with a value of $2000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the coverage amount for the Silver level car insurance policy offered by Parasol insurance?",
+        "input": "",
+        "output": "The Silver level policy offers basic third party cover with a maximum payout of $20,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the cost difference between the Gold and Silver levels of Parasol car insurance?",
+        "input": "",
+        "output": "The cost difference between the Gold and Silver levels of Parasol car insurance is not provided in the document, as it does not mention the premiums for each level.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "How much can you recover if you have Gold or Platinum coverage?",
+        "input": "",
+        "output": "If you have Gold or Platinum coverage under Parasol car insurance products, you can recover up to $40,000 or $60,000, respectively. This assumes fully comprehensive cover and excludes the deductible.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Given the document, describe the differences in the maximum payouts between the Silver, Gold, and Platinum levels of Parasol's car insurance products.",
+        "input": "",
+        "output": "The Silver level policy has a maximum payout of $20,000, the Gold level policy has a maximum payout of $40,000, and the Platinum level policy has a maximum payout of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the maximum payouts for all three Parasol car insurance products.",
+        "input": "",
+        "output": "The Silver level policy offers basic third party cover with a maximum payout of $20,000, the Gold level provides fully comprehensive cover with a maximum payout of $40,000, and the Platinum level also has fully comprehensive cover but with a higher maximum payout of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Calculate the difference in the maximum payouts for Gold level and Platinum level of Parasol car insurance.",
+        "input": "",
+        "output": "The difference in the maximum payouts for Gold level and Platinum level of Parasol car insurance is $20,000. This means that Platinum level offers a higher payout ($60,000) compared to Gold level ($40,000).",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Can Platinum level of Parasol car insurance products pay up to $40,000?",
+        "input": "",
+        "output": "Yes, the Platinum level of Parasol car insurance products offers fully comprehensive cover with a maximum payout of $60,000. Therefore, it can pay up to $60,000 for claims related to damages or injuries resulting from car collisions.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Given that the maximum payout limit for the Gold level Parasol insurance policy is $40,000, what would be the maximum amount you could receive if you were involved in an accident with another vehicle insured under the same policy?",
+        "input": "",
+        "output": "In a scenario where both vehicles are insured under the Gold level Parasol policy and one party is found to be 100% at fault, the maximum amount you could receive for damages would be $40,000. However, this is assuming no other factors come into play, such as your own deductible or any additional coverage that might apply.\n\nPlease note that this is a general explanation and may not cover all possible scenarios or specific policy details. It's crucial to consult with your insurance agent for the most accurate information based on your policy and situation.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Explain the difference between the Platinum level and Gold level Parasol car insurance policies in terms of deductible limits and maximum payout amounts.",
+        "input": "",
+        "output": "The main differences between the Platinum and Gold levels are:\n1. Maximum Payout Limit: The Platinum level has a higher maximum payout limit of $60,000 compared to the Gold level's $40,000.\n2. Deductible: The Platinum level has a lower deductible of $500, while the Gold level has a $2000 deductible.\n\nIn summary, the Platinum level offers higher coverage limits and a lower deductible compared to the Gold level. This means that with the Platinum level, you would pay less out-of-pocket for each claim but have a higher overall premium. The Gold level is more affordable in terms of monthly payments, but it might not provide enough coverage for some drivers, depending on their risk tolerance and financial situation.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the amount that Platinum level policy will deduct in case of a collision?",
+        "input": "",
+        "output": "The Platinum level Parasol insurance policy has a deductible of $500 in case of a collision. This means that, after the insurer pays for the initial damages up to the deductible amount, you would be responsible for the remaining costs until your coverage limits are reached or the claim is resolved.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Tell me the maximum payout amount for Silver level policy under Parasol insurance?",
+        "input": "",
+        "output": "The maximum payout amount for a Silver level policy under Parasol insurance is $20,000. This coverage is only applicable for third-party claims and does not include damages to your own vehicle or injuries sustained by the driver or passengers in your car.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum payout amount for the Gold level of Parasol car insurance products?",
+        "input": "",
+        "output": "The Gold level of Parasol car insurance provides fully comprehensive cover with a maximum payout of $40,000. This means that if you have a claim related to damages or injuries resulting from a car collision, the insurer will reimburse you up to $40,000, provided the deductible has been met.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the difference in the maximum payout amounts between the Silver and Platinum levels of Parasol car insurance products?",
+        "input": "",
+        "output": "The Silver level offers basic third party cover with a maximum payout of $20,000, while the Platinum level provides fully comprehensive cover with a higher maximum payout amount of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Find out which Parasol car insurance product has the lowest payout limit.",
+        "input": "",
+        "output": "The Silver level of Parasol car insurance has a maximum payout of $20,000 for third party cover.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the lowest deductible among all three levels of coverage?",
+        "input": "",
+        "output": "The Platinum level policy has the lowest deductible of $500 among all three levels.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "How much is the maximum payout for the Silver level of Parasol car insurance products?",
+        "input": "",
+        "output": "The Silver level offers a maximum payout of $20,000. However, it's important to note that this amount is for basic third-party cover only and does not include damages to your vehicle or any other comprehensive coverage.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Compare the cost and coverage between Platinum and Gold level Parasol car insurance policies in terms of maximum payout amount.",
+        "input": "",
+        "output": "The main differences between the two levels are:\n1. Maximum Payout Limit: The Platinum level has a higher maximum payout limit of $60,000 compared to the Gold level's $40,000. This means that with the Platinum level, you would have more coverage for accidents or damages but would also pay a higher premium.\n2. Deductible: The Platinum level has a lower deductible of $500, while the Gold level has a $2000 deductible. This means that with the Platinum level, you would have to pay less out-of-pocket for each claim but would also have a higher monthly premium.\n\nIn summary, if you want more coverage and are willing to pay a higher premium, the Platinum level might be the best option. If you prefer a lower monthly payment and can accept slightly less coverage, the Gold level could be more suitable. Remember to consider your personal situation, risk tolerance, and financial capabilities when choosing between these two levels.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the maximum payout limit for the Gold level of Parasol car insurance?",
+        "input": "",
+        "output": "The maximum payout limit for the Gold level of Parasol car insurance is $40,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the minimum deductible amount for a fully comprehensive coverage in any of the parasol car insurance products?",
+        "input": "",
+        "output": "The minimum deductible amount for a fully comprehensive coverage in any of the parasol car insurance products is $500. This deductible applies to the Platinum level.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Explain the differences between the Platinum and Gold levels of car insurance policies from Parasol.",
+        "input": "",
+        "output": "The main difference between the Platinum and Gold levels of car insurance policies from Parasol is the maximum payout amount in case of a collision. For the Platinum level, the maximum payout is $60,000, while for the Gold level, it is $40,000. Additionally, Gold level has a deductable $2000 while Platinum is $500. The Platinum level offers a higher maximum payout, making it a more comprehensive coverage option compared to the Gold level.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "How much higher is the deductible of Gold level compared to Platinum level in Parasol car insurance policies?",
+        "input": "",
+        "output": "The Platinum level has a lower deductible of $500, while the Gold level has a $2000 deductible. Therefore, the deductible of Gold level is $1500 higher than that of Platinum level in Parasol car insurance policies.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "List all the Parasol car insurance products and their respective maximum payout limits.",
+        "input": "",
+        "output": "The Parasol car insurance products are:\n- Silver level with a maximum payout of $20,000.\n- Gold level with a maximum payout of $40,000.\n- Platinum level with a maximum payout of $60,000.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Explain the benefits of the Platinum level car insurance policy for Parasol insurance customers seeking comprehensive coverage.",
+        "input": "",
+        "output": "The Platinum level car insurance policy offered by Parasol insurance provides fully comprehensive cover with a maximum payout of $60,000 and a deductible of $500. This means that in the event of an accident, Parasol will cover the cost to repair or replace your vehicle up to the $60,000 limit, minus the $500 deductible. In addition to this, Platinum level policyholders also enjoy benefits such as cover for personal belongings, emergency repairs, and alternative transportation in case of a covered loss. These additional features make the Platinum level policy particularly attractive for customers seeking comprehensive coverage and peace of mind.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "What is the highest deductible amount for any level in Parasol car insurance?",
+        "input": "",
+        "output": "The highest deductible amount for any level in Parasol car insurance is $2,000. This applies to the Gold and Silver levels, where the policyholder pays a deductible of $2,000 before Parasol insurance starts covering costs.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "How much can one expect to pay for Parasol's Platinum level fully comprehensive car insurance?",
+        "input": "",
+        "output": "The cost of Parasol's Platinum level fully comprehensive car insurance will depend on various factors, including the insured's driving record, vehicle make and model, and location. However, based on the provided document, the maximum payout for this level is $60,000, and the deductible is $500.",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    },
+    {
+        "instruction": "Provide an example of a real-life situation where choosing a higher insurance coverage level might be beneficial.",
+        "input": "",
+        "output": "Consider a scenario where you own a luxury car and you frequently travel on highways with fast-moving traffic. In this case, selecting a Platinum level policy would provide an increased maximum payout of $60,000, which could cover the cost of repairing or replacing your vehicle in case of a severe accident. This higher coverage level offers better protection and peace of mind for drivers who own more expensive cars and travel on busy roads.\n\n*",
+        "taxonomy_path": "knowledge->insurance->collisions",
+        "task_description": "",
+        "document": [
+            "# Parasol Car Insurance Products\n\nThe parasol car insurance products provided by Parasol insurance are:\n\n* Silver level: For basic third party cover, with a maximum payout of $20,000 and a deductable of $2000.\n\n* Gold level: For fully comprehensive cover, with a maximum payout of $40,000 and a deductable of $2000.\n\n* Platinum level: For fully comprehensive cover, with a maximum payout of $60,000 and a deductable of $500."
+        ]
+    }
+]
